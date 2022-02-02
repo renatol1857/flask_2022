@@ -1,0 +1,13 @@
+__pycache__
+
+venv
+
+*.pyc
+
+*.*~
+
+*-Copy*.py
+
+.idea
+
+
